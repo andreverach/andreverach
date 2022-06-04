@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm André</h1>
 <h3 align="center">A passionate fullstack developer from Perú</h3>
 
-- 🔭 I’m currently working on **Qusoft Perú**
-
 - 👨‍💻 All of my projects are available at [https://github.com/andreverach](https://github.com/andreverach)
 
 - 💬 Ask me about **Laravel, Angular, Vue**
