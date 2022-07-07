@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/andreverach](https://github.com/andreverach)
 
-- 💬 Ask me about **Laravel, Angular, Vue**
+- 💬 Ask me about **Laravel, Angular, VueJS**
 
 - 📫 How to reach me **andrevera.pe@gmail.com**
 
